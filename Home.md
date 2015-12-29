@@ -4,11 +4,9 @@ TOra is an open-source multi-platform database management GUI that supports acce
 
 In addition to regular query and data browsing functionality, it includes several additional tools useful for database administrators and developers -- which aims to help the DBA or developer of database application. Features PL/SQL debugger, SQL worksheet with syntax highlighting, DB browser and a comprehensive set of DBA tools.
 
-[[Download|{{ :misc_images:welcome.png?605x340 }}]]
+[[Download|https://github.com/tora-tool/tora]]
 
 ### Features
-
-<box 54% left #fff>
 
    * Handles multiple connections.
    * Asynchronus database communication. UI mostly responsive when accessing database.
