@@ -1,4 +1,4 @@
-====== About TOra ======
+### About TOra
 
 TOra is an open-source multi-platform database management GUI that supports accessing most of the common database platforms in use, including Oracle, MySQL, and Postgres, as well as limited support for any target that can be accessed through Qt's ODBC support. TOra has been built for various Linux distributions, Mac OS X, MS Windows, and UNIX platforms.
 
@@ -6,7 +6,7 @@ In addition to regular query and data browsing functionality, it includes severa
 
 [[Download|{{ :misc_images:welcome.png?605x340 }}]]
 
-===== Features =====
+### Features
 
 <box 54% left #fff>
 
@@ -63,7 +63,7 @@ In addition to regular query and data browsing functionality, it includes severa
    * Cross platform support. Known to work on Linux, Windows and Solaris.
 </box>
 
-<box 40% right #fff|**User comments**>
+### User comments
 
 <blockquote Red Hat IT>We just wanted to make sure you know how much we here in the Red Hat IT group appreciate TOra. It's an official departmental application for our Oracle developers for two main reasons - **It's licensed under the GPL** and **It's functionality meets or exceeds the abilities of any proprietary application we've seen**.
  
@@ -76,4 +76,3 @@ I've worked for Red Hat for three years and have been using Open Source tools fo
 
 "Great product, compares well with overpriced commercial products. Look forward to more functionalities, like visual query designer, being added."
 </blockquote>
-</box>
