@@ -22,7 +22,7 @@ There are Windows (32bit) binaries available in our [sourceforge download area](
 
 ===== Mac OS X =====
 
-  - Mac standalone binaries are available (since version 2.1.1) in the [[http://sourceforge.net/project/showfiles.php?group_id=16636|sourceforge download area]] as DMG files - Mac's standard installation packages.
+  - Mac standalone binaries are available (since version 2.1.1) in the [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636) as DMG files - Mac's standard installation packages.
   - TOra is also available in [Macports](http://www.macports.org).
 
 Visit [[MacOSX|Mac dedicated page]] for more.
