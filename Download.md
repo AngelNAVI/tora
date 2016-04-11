@@ -14,11 +14,11 @@ You can always build your own TOra from source code. See [[Development]] section
 
 ===== MS Windows =====
 
-There are Windows (32bit) binaries available in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
-  - Setup package - contains TOra installer.
-  - Zip package - contains TOra without installation program. Just "unpack and run".
+There are Windows (64bit) binaries available in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
+  - .msi package - contains TOra installer. msi package supports both per-machine, and per-user(non-admin) installation
+  - .zip package - contains TOra without installation program. Just "unpack and run".
 
-**Important!** Because of legal reasons TOra comes with a stub //oci.dll// file which makes it possible to use TOra with non Oracle databases even when Oracle client is not installed. If you need to access Oracle - you must install Oracle client (for example [oracle instant client](http://www.oracle.com/technology/software/tech/oci/instantclient/index.html) ) and delete stub //oci.dll// from TOra installation folder.
+**Important!** Because of legal reasons TOra comes without Oracle client drivers. If you need to access Oracle - you must install Oracle client (for example [oracle instant client](http://www.oracle.com/technology/software/tech/oci/instantclient/index.html) ).
 
 ===== Mac OS X =====
 
@@ -29,7 +29,7 @@ Visit [[MacOSX|Mac dedicated page]] for more.
 
 ===== Other operating systems =====
 
-TOra can be compiled on every system where is Qt4 and Oracle client available. Probably. Let us know your experiences with it, please.
+TOra can be compiled on every system where is Qt5 and Oracle client available. Probably. Let us know your experiences with it, please.
 
 ===== Documentation =====
 
