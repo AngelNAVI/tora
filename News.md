@@ -1,4 +1,12 @@
-===== TOra 2.1.3 =====
+### TOra 3.0.59 (May 8 2016)
+* Clipboard fixes
+* Explain fixes
+* MySQL fixes
+
+### TOra 3.0 (Apr 3 2016)
+Greatly improved stability, memory usage and performance
+
+### TOra 2.1.3
 
 This release brings some new features:
   * Terradata support
@@ -15,7 +23,7 @@ A lot of bugs have been fixed as well.
 
  --- 2010-09-19
 
-===== TOra 2.1.2 =====
+### TOra 2.1.2
 
 This new release brings some new features and updated stability into your database related work.
 
@@ -31,7 +39,7 @@ This new release brings some new features and updated stability into your databa
   * Bugfixes
  --- 2010-03-30
 
-===== TOra 2.1.1 =====
+### TOra 2.1.1
 
 A bugfix release for 2.1. TOra contains the same functionality as in 2.1, so there is no need to upgrade for users of binary packages.
 
@@ -39,7 +47,7 @@ A bugfix release for 2.1. TOra contains the same functionality as in 2.1, so the
   * Fixes in build scripts
  --- //[[petr@scribus.info|Petr Vanek]] 2009/10/16 23:48// 
 
-===== TOra 2.1 =====
+### TOra 2.1
 
 This new release brings more new features and updated stability into your database related work.
 
@@ -54,19 +62,17 @@ This new release brings more new features and updated stability into your databa
   * Copy-Paste and Export features in the Data Grids.
   * Internal libraries updated.
   * and many more various bugfixes.
- --- //[[petr@scribus.info|Petr Vanek]] 2009/09/07 05:26//
 
-
-===== TOra 2.0 =====
+### TOra 2.0
 After over a year of work since we first started migrating to Qt4, we are proud to release version 2.0. There have been many improvements:
 
-    * Greatly improved stability, memory usage and performance
-    * 11g support
-    * Instantclient support
-    * A new unit testing tool
-    * A new PL/SQL Editor
-    * Updated Postgres schema browser support, added new statistics and session management tools
-    * First release with Qt OpenSource for Windows
+* Greatly improved stability, memory usage and performance
+* 11g support
+* Instantclient support
+* A new unit testing tool
+* A new PL/SQL Editor
+* Updated Postgres schema browser support, added new statistics and session management tools
+* First release with Qt OpenSource for Windows
 
 If you haven't used TOra in a while, we think you'll be pleased with this update.
 
