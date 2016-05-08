@@ -1,4 +1,4 @@
-===== Linux =====
+### Linux
 
 It's always good to use prepared packages for your distribution. Search in distribution's repositories or in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
 
@@ -12,7 +12,7 @@ It's always good to use prepared packages for your distribution. Search in distr
 
 You can always build your own TOra from source code. See [[Development]] section for howto
 
-===== MS Windows =====
+### MS Windows
 
 There are Windows (64bit) binaries available in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
   - .msi package - contains TOra installer. msi package supports both per-machine, and per-user(non-admin) installation
@@ -20,18 +20,18 @@ There are Windows (64bit) binaries available in our [sourceforge download area](
 
 **Important!** Because of legal reasons TOra comes without Oracle client drivers. If you need to access Oracle - you must install Oracle client (for example [oracle instant client](http://www.oracle.com/technology/software/tech/oci/instantclient/index.html) ).
 
-===== Mac OS X =====
+### Mac OS X
 
   - Mac standalone binaries are available (since version 2.1.1) in the [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636) as DMG files - Mac's standard installation packages.
   - TOra is also available in [Macports](http://www.macports.org).
 
 Visit [[MacOSX|Mac dedicated page]] for more.
 
-===== Other operating systems =====
+### Other operating systems
 
 TOra can be compiled on every system where is Qt5 and Oracle client available. Probably. Let us know your experiences with it, please.
 
-===== Documentation =====
+### Documentation
 
 You can download TOra documentation (the same one as presented in TOra's help) in [one pdf file](http://sourceforge.net/projects/tora/files/tora/tora_documentation.pdf/download).
 
