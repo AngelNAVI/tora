@@ -1,9 +1,6 @@
 TOra is an open source project with all its pros and cons.
 
-TOra is hosted at [[http://sourceforge.net/projects/tora/|Sourceforge]] using provided tools to cooperate and communicate.
+TOra is hosted at [GitHub](https://github.com/tora-tool/tora) using provided tools to cooperate and communicate.
+[Sourceforge](https://github.com/tora-tool/tora) is still used for binaries distribution.
 
-Main support is provided in [[http://sourceforge.net/mailarchive/forum.php?forum_name=tora-develop|Mailing List]], an e-mail based discussion.
-
-**Bug reporting.** Add an entry into [[http://sourceforge.net/tracker/?group_id=16636|Bugtracker]] if you discover any bug or if you have a valuable request for enhancement.
-
-There are some [[http://sourceforge.net/forum/?group_id=16636|forums]] as well. Unfortunately they are visited less often.
+Use [GitHub](https://github.com/tora-tool/tora/issues) for **Bug reporting.** Add an entry into issue tracker if you discover any bug or if you have a valuable request for enhancement.
