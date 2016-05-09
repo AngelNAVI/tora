@@ -1,12 +1,12 @@
-====== About TOra ======
+###About TOra
 
 TOra is an open-source multi-platform database management GUI that supports accessing most of the common database platforms in use, including Oracle, MySQL, and Postgres, as well as limited support for any target that can be accessed through Qt's ODBC support. TOra has been built for various Linux distributions, Mac OS X, MS Windows, and UNIX platforms.
 
 In addition to regular query and data browsing functionality, it includes several additional tools useful for database administrators and developers -- which aims to help the DBA or developer of database application. Features PL/SQL debugger, SQL worksheet with syntax highlighting, DB browser and a comprehensive set of DBA tools.
 
-[[Download|{{ :misc_images:welcome.png?605x340 }}]]
+[Download](https://sourceforge.net/projects/tora/files/tora/3.0.0/)
 
-===== Features =====
+### Features
 
 <box 54% left #fff>
 
