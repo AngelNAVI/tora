@@ -1,6 +1,6 @@
 ### About TOra
 
-TOra is an open-source multi-platform database management GUI that supports accessing most of the common database platforms in use, including Oracle, MySQL, and Postgres, as well as limited support for any target that can be accessed through Qt's ODBC support. TOra has been built for various Linux distributions, Mac OS X, MS Windows, and UNIX platforms.
+TOra is an open-source multi-platform database management GUI that supports accessing most of the common database platforms in use, including Oracle, MySQL, and PostgreSQL, as well as limited support for any target that can be accessed through Qt's ODBC support. TOra has been built for various Linux distributions, Mac OS X, MS Windows, and UNIX platforms.
 
 In addition to regular query and data browsing functionality, it includes several additional tools useful for database administrators and developers -- which aims to help the DBA or developer of database application. Features PL/SQL debugger, SQL worksheet with syntax highlighting, DB browser and a comprehensive set of DBA tools.
 
@@ -12,7 +12,7 @@ In addition to regular query and data browsing functionality, it includes severa
    * Asynchronus database communication. UI mostly responsive when accessing database.
    * Requires no installation on the database side to be fully functional.
    * Advanced SQL worksheet.
-      * Code completion.
+      * Code completion(temporarily disabled in version 3.0).
       * Explain execution plan.
       * Execution statistics.
       * SQL syntax highlighting.
@@ -26,11 +26,11 @@ In addition to regular query and data browsing functionality, it includes severa
       * Tab & tree based browsing.
       * Object & data filtering.
       * PL/SQL editor & debugger.
-      * Breakpoints.
       * Variable watches.
       * Line by line stepping.
-      * Debugger SQL output viewing.
-      * Syntax structure tree parsing.
+      * Breakpoints(temporarily disabled in version 3.0).
+      * Debugger SQL output viewing(temporarily disabled in version 3.0).
+      * Syntax structure tree parsing(temporarily disabled in version 3.0).
    * Server tuning.
       * Server overview.
       * Tuning charts.
