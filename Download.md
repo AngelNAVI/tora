@@ -1,16 +1,13 @@
 ### Linux
 
-It's always good to use prepared packages for your distribution. Search in distribution's repositories or in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
+You can build your own TOra 3.0 from source code. See [[Development]] section for howto.
 
+Packages for your distribution still use version 2.1. Search in distribution's repositories or in our [sourceforge download area](http://sourceforge.net/project/showfiles.php?group_id=16636).
 
   * **Suse/openSUSE**
     * [TOra repository](http://download.yarpen.cz/) - packages for openSUSE (11.x and later) and SLE too. All RPMs are built against Oracle 11.2 client. Packages contain tora (with Oracle support) and tora-no-oracle (MySQL and PostgreSQL) - all is available in the menu) (thanks to: [Packman](http://packman.links2linux.org/) )
   * **Gentoo** - TOra is in the main portage tree: //dev-db/tora//
-  * **Mandriva**, **Fedora**, **RHEL**, **Mageia** - packages available at [sourceforge](https://sourceforge.net/projects/tora/files/tora/). Warning: packages can contain various dependencies.
-  * **Debian** - only amd64 package for now at sourceforge.
   * **Ubuntu** - there is a package in //universe// repository but there are no additional info id it's available with Oracle support.
-
-You can always build your own TOra from source code. See [[Development]] section for howto
 
 ### MS Windows
 
